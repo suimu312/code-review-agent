@@ -2,6 +2,8 @@
 
 一个基于大语言模型的代码审查智能体，能够自动分析代码质量、发现潜在 Bug、给出改进建议。
 
+**代码仓库**：[https://github.com/suimu312/code-review-agent](https://github.com/suimu312/code-review-agent)
+
 ## 功能特性
 
 - **Agent 循环**：输入 → 推理 → 工具调用 → 输出，自主决定何时调用工具
